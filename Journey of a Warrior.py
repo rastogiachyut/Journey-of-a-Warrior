@@ -1,6 +1,8 @@
 #The authors are
 """
-
+Shubham Rastogi
+Apurva Sahay
+Achyut Rastogi
 """
 from pygame.locals import *
 import pygame,pygbutton,sys
