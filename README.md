@@ -5,9 +5,9 @@ It is a game created using pygame library of Python
 It is a game in which I have used several algorithms. This game consists of four levels; each level is based on a riddle which needs to be solved by the player to advance to the next level
 
 GROUP MEMBERS:
-•	Apurva Sahay (121238)
-•	Shubham Rastogi (121241)
-•	Achyut Rastogi (121243)
+•	Apurva Sahay (apoorv09s)
+•	Shubham Rastogi (shubhamr20)
+•	Achyut Rastogi (rastogiachyut)
 
 Dijkstra’s Algorithm:
 Space Complexity:  O(n2)
@@ -45,9 +45,9 @@ Time Complexity: O(n)
 Here n is the number of sacks (elements in the array).
 
 def angry_c(a, n, k):
-# a – Array of sacks.
-# n – Number of Sacks
-# k – Number of Houses
+  a – Array of sacks.
+  n – Number of Sacks
+  k – Number of Houses
     k=k-1;
     a.sort(); # sort the array is ascending order
     i=0;
