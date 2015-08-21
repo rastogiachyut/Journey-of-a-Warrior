@@ -75,9 +75,10 @@ SCREENSHOTS
 ============================================================================
 
 ![title](https://cloud.githubusercontent.com/assets/11174059/9405029/efcbf2ca-4811-11e5-8b9c-50e5cadeb178.jpg)
-![final](https://cloud.githubusercontent.com/assets/11174059/9405032/effe56de-4811-11e5-887d-9e3fe9b2ea21.jpg)
+![story](https://cloud.githubusercontent.com/assets/11174059/9405033/f00ce492-4811-11e5-90d4-2127dcebc425.jpg)
 ![map](https://cloud.githubusercontent.com/assets/11174059/9405031/effbe458-4811-11e5-9320-7177f75d7698.jpg)
 ![stage2_2](https://cloud.githubusercontent.com/assets/11174059/9405030/effb61ea-4811-11e5-98b5-17c2f1d845ff.jpg)
-![story](https://cloud.githubusercontent.com/assets/11174059/9405033/f00ce492-4811-11e5-90d4-2127dcebc425.jpg)
+![final](https://cloud.githubusercontent.com/assets/11174059/9405032/effe56de-4811-11e5-887d-9e3fe9b2ea21.jpg)
+
 
 
