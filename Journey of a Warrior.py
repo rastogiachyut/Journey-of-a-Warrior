@@ -1,4 +1,7 @@
+#The authors are
+"""
 
+"""
 from pygame.locals import *
 import pygame,pygbutton,sys
 from random import randint
